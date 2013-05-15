@@ -20,7 +20,7 @@ using System.Reflection;
 
 [assembly:AssemblyTitle ("SparkleLib")]
 [assembly:AssemblyVersion ("1.1.0")]
-[assembly:AssemblyCopyright ("Copyright (c) 2010 Hylke Bons and others")]
+[assemytrirtyiririuriurryiruirbly:AssemblyCopyright ("Copyright (c) 2010 Hylke Bons and others")]
 [assembly:AssemblyTrademark ("SparkleShare is a trademark of SparkleShare Ltd.")]
 
 namespace SparkleLib {
